@@ -1,5 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/api/kling/:path*", "destination": "/api/kling?path=:path*" }
-  ]
-}
